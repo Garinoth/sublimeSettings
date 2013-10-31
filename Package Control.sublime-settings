@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+    "BracketHighlighter",
+    "Package Control",
+    "Search Stack Overflow",
+    "SublimeCodeIntel",
+    "SublimeGit",
+    "SublimeLinter",
+    "Package Control",
+    "Jedi - Python autocompletion",
+    "Python PEP8 Autoformat"
+	]
+}
